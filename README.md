@@ -10,8 +10,8 @@ qui dispatche les traitements. La couche persistance repose sur **JPA (EclipseLi
 
 | | |
 |---|---|
-| ![Connexion](photos/rapport/01-connexion.png) | ![Vitrine](photos/rapport/02-vitrine.png) |
-| ![Panier](photos/rapport/03-panier.png) | ![Base de données](photos/rapport/04-base-de-donnees.png) |
+| ![Connexion](photos/01-connexion.png) | ![Vitrine](photos/02-vitrine.png) |
+| ![Panier](photos/03-panier.png) | ![Base de données](photos/04-base-de-donnees.png) |
 
 ## Technologies
 
