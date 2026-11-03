@@ -113,4 +113,4 @@ Créer un compte depuis la page d'inscription, puis naviguer dans la vitrine et 
 
 ## Auteur
 
-Omar — Cycle Ingénieur LSI, FSTT Tanger
+Omar — Cycle Ingénieur LSI, FSTT 
